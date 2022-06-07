@@ -1,5 +1,3 @@
-# typescript-codewar-challenges
-this repo is my 
 <div align="center">
   
 
