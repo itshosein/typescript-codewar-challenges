@@ -40,7 +40,7 @@ these challenges solved using
 1. Clone the repo
 
    ```sh
-   git clone git@github.com:hosein-fatthi/itshosein.git
+   git clone git@github.com:itshosein/typescript-codewar-challenges.git
    ```
 
 2. Install NPM packages
@@ -49,13 +49,13 @@ these challenges solved using
    ```
 3. For development
 
-   ```js
+   ```sh
    npm run dev
    ```
 
    For production
 
-   ```js
+   ```sh
    npm run build
 
    npm start
