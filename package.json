@@ -1,0 +1,31 @@
+{
+  "name": "typescript-codewar-challenges",
+  "version": "1.0.0",
+  "description": "codewar challenges algorithms for typescript",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itshosein/typescript-codewar-challenges.git"
+  },
+  "keywords": [
+    "codewars",
+    "typescript",
+    "challenges",
+    "algorithms"
+  ],
+  "author": "hossein fathi",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/itshosein/typescript-codewar-challenges/issues"
+  },
+  "homepage": "https://github.com/itshosein/typescript-codewar-challenges#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
