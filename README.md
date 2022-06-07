@@ -31,6 +31,10 @@ A pangram is a sentence that contains every single letter of the alphabet at lea
 
 Given a string, detect whether or not it is a pangram. Return True if it is, False if not. Ignore numbers and punctuation.
 
+2. **Square Number**
+
+Given an integral number, determine if it's a square number:
+
 ### Built With
 
 <div id="built-with"></div>
