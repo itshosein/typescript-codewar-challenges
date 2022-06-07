@@ -1,5 +1,9 @@
 export default (phrase: string): boolean => {
-  const trimmedPhrase = phrase.trim().replaceAll(" ", "").toLowerCase();
+  let trimmedPhrase = phrase.trim().replace(" ", "").toLowerCase();
+
+  while (trimmedPhrase.indexOf(" ") >= 0) {
+    trimmedPhrase = trimmedPhrase.replace(" ", "");
+  }
   const alphabetArr = [
     "a",
     "b",
