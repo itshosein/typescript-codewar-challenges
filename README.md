@@ -53,17 +53,14 @@ these challenges solved using
    ```sh
    npm install
    ```
-3. For development
-
-   ```sh
-   npm run dev
-   ```
-
-   For production
+3. build the project
 
    ```sh
    npm run build
+   ```
+4. run the main script
 
+   ```sh
    npm start
    ```
 
