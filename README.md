@@ -11,10 +11,7 @@ this repo is my
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -27,3 +24,40 @@ this repo is my
   </ol>
 </details>
 <br/>
+
+### Built With
+
+<div id="built-with"></div>
+
+these challenges solved using 
+
+- [Typescript](https://styled-components.com/)
+
+### Installation
+
+<div id="installation"></div>
+
+1. Clone the repo
+
+   ```sh
+   git clone git@github.com:hosein-fatthi/itshosein.git
+   ```
+
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. For development
+
+   ```js
+   npm run dev
+   ```
+
+   For production
+
+   ```js
+   npm run build
+
+   npm start
+   ```
+
