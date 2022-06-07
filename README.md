@@ -20,6 +20,7 @@
 
 <div id="challenges"></div>
 ### challenges
+<br/>
 
   ## detect-pangram
 
