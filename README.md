@@ -46,6 +46,14 @@ Write a method that takes an array of consecutive (increasing) letters as input 
 You will always get an valid array. And it will be always exactly one letter be missing. The length of the array will always be at least 2.
 The array will always contain letters in only one case.
 
+5. **odd or even letter**
+
+Given a list of integers, determine whether the sum of its elements is odd or even.
+
+Give your answer as a string matching "odd" or "even".
+
+If the input array is empty consider it as: [0] (array with a zero).
+
 ### Built With
 
 <div id="built-with"></div>
