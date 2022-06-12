@@ -2,7 +2,8 @@ import detectPangram from "./detect-pangram/DetectPangram.js";
 import squareNumber from "./square-number/SquareNumber.js";
 import evenIndex from "./even-index/EvenIndex.js";
 import findMissingLetter from "./find-missing-letter/FindMissingLetter.js";
-import detectOddOrEvenArray from "./oddOrEvenArray/OddOrEvenArray.js";
+import detectOddOrEvenArray from "./odd-or-even-array/OddOrEvenArray.js";
+import makeSpinWords from "./spin-words/SpinWords.js";
 
 const pangramSentence = "The quick brown fox jumps over the lazy dog";
 const isPangram = detectPangram(pangramSentence);
@@ -25,4 +26,7 @@ console.log("Missing letter is",missingLetter);
 
 const oddOrEvenArray = detectOddOrEvenArray([]);
 console.log("array is",oddOrEvenArray);
+
+const spinWords = makeSpinWords("Hey fellow warriors");
+console.log("spinWords",spinWords);
 
