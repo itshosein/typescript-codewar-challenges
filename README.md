@@ -112,7 +112,7 @@ M          1,000
 
 these challenges solved using 
 
-- [Typescript](https://styled-components.com/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ### Installation
 
